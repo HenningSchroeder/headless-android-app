@@ -16,6 +16,7 @@ This repository is set up for **agent-first, phase-driven delivery** with an MVP
   - System understanding + PoC plan: [`docs/product/system-understanding.md`](docs/product/system-understanding.md)
   - Feature backlog + execution tasks: [`docs/product/backlog.md`](docs/product/backlog.md)
 - Expertise / tools knowledge: [`docs/knowledge/agent-and-technology-knowledge.md`](docs/knowledge/agent-and-technology-knowledge.md)
+- Data dictionary (starter terms + acronyms): [`docs/knowledge/data-dictionary.md`](docs/knowledge/data-dictionary.md)
 
 ## Existing Source Plan
 

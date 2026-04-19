@@ -44,7 +44,7 @@ A-SPICE requires capability evidence, not fixed document naming/partitioning. Th
 
 Deferrals are reviewed at each phase gate and promoted when project risk/complexity increases.
 
-## Definition of Done
+## Definition of Done (DoD)
 - Task acceptance criteria met.
 - Backlog/task/traceability docs updated.
 - Validation evidence recorded.
