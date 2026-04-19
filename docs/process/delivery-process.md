@@ -28,6 +28,12 @@
 - Change impact is documented in traceability matrix before/after implementation.
 - Retrospectives capture process and product improvements for the next cycle.
 
+## V-Model Alignment (tailored for this project)
+- Left side (do the right thing): clarify scope, assumptions, architecture, and acceptance criteria before implementation.
+- Right side (do it right): execute verification evidence per task and validate feature behavior against agreed use-cases.
+- Pragmatic tailoring: keep artifacts lightweight and phase-appropriate; increase rigor at phase gates and release readiness.
+- Traceability link: each planned feature/task should be verifiable and mapped to evidence in the progress log/traceability matrix.
+
 ## A-SPICE Tailoring (explicit and intentional)
 A-SPICE requires capability evidence, not fixed document naming/partitioning. This setup is tailored to keep only evidence needed at the current maturity level.
 
@@ -43,6 +49,12 @@ A-SPICE requires capability evidence, not fixed document naming/partitioning. Th
 - Formal supplier/dependency governance packages: deferred until external suppliers or critical third-party chains are introduced.
 
 Deferrals are reviewed at each phase gate and promoted when project risk/complexity increases.
+
+## Architecture & Decision Records
+- Use ADRs for significant technical/process decisions and record context, options, decision, and consequences.
+- Start from `docs/process/adr-template.md` and reference accepted ADRs from relevant backlog/tasks.
+- Maintain C4 architecture views in `docs/product/architecture-c4.md` and update when architecture-relevant changes are introduced.
+- Default diagram format: Markdown + Mermaid for agent portability; use PlantUML when it is a better fit for a specific diagram.
 
 ## Definition of Done (DoD)
 - Task acceptance criteria met.

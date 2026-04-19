@@ -19,9 +19,12 @@ This dictionary defines key terms used across business unit, project, program, a
 - **Infra E2E Slice**: Early end-to-end validation focused on infrastructure and runtime path viability.
 - **Sync PR**: Coordination pull request used as an auditable integration/review point per increment.
 - **CR (Change Request / Decision)**: Explicit record of change rationale and decision impact.
+- **V-Model**: Development/assurance model linking definition work ("doing the right thing") with verification work ("doing it right").
 
 ## Expert Knowledge Terms
 - **A-SPICE**: Automotive SPICE capability framework; requires evidence of capability, not fixed naming/partitioning of documents.
+- **ADR (Architecture Decision Record)**: Structured record of architecture/process decisions, alternatives, rationale, and consequences.
+- **C4 Model**: Architecture model using System Context, Container, Component, and (optional) Code views.
 - **PoC (Proof of Concept)**: Targeted experiment to reduce uncertainty before broader implementation.
 - **Assumption -> Step -> Observation -> Reaction/Decision Cycle**: Labbook-style evidence loop used in the progress log, including failures.
 - **Heterogeneous Agent Handover**: Tool-agnostic context transfer so different agents can continue work without hidden assumptions.
