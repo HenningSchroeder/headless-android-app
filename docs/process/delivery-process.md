@@ -15,12 +15,8 @@
 1. Confirm or update system understanding.
 2. Select sprint scope from prioritized backlog.
 3. Execute tasks in parallel where independent.
-4. Persist context for cross-agent continuity:
-   - Log assumption/step/observation/reaction cycles in chronological progress log.
-   - Promote durable learnings into shared knowledge docs (not agent-local memory only).
-5. Update traceability matrix (Feature -> Task -> Commit -> Impact/CR).
-6. Run retrospective at sprint/phase end.
-7. Open sync PR per phase/increment.
+4. Apply canonical process baseline requirements from `docs/knowledge/agent-and-technology-knowledge.md` (traceability updates, progress logging, retrospective cadence, and validation evidence), and record any project-specific tailoring here.
+5. Open sync PR per phase/increment.
 
 ## Quality & Governance (A-SPICE aligned intent)
 - Requirements and scope are versioned in product docs.
