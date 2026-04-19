@@ -1,5 +1,12 @@
 # Chronological Project Progress Log
 
+This log acts as the engineering labbook / ship's log for delivery execution.
+Capture chronological evidence regardless of success/failure using short cycles:
+- Assumption
+- Step
+- Observation
+- Reaction/Decision
+
 ## 2026-04-19 - Pre-phase Setup Initialized
 - Created phase-driven project setup (MVP-first, increment-based).
 - Split documentation by concern:
