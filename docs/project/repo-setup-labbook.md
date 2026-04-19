@@ -7,8 +7,8 @@ pkg upgrade
 pkg install git
 pkg install gh
 
-git config --global user.name "Henning Schroeder"
-git config --global user.email henning.schroeder@gmx.de
+git config --global user.name "Your Name"
+git config --global user.email your.email@example.com
 
 gh auth login
 
