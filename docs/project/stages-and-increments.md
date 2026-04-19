@@ -2,21 +2,22 @@
 
 ## Delivery Principle
 - Build a **Minimal Valuable Product (MVP)** end-to-end first.
-- Deliver in **increments (sprints)** with one sync PR per stage/increment.
+- Deliver in **increments (sprints)** with one sync PR per phase/increment.
 - Keep each increment independently reviewable and traceable.
 
-## Stage Plan
+## Phase Plan (industry-aligned, tailored)
 
-| Stage | Objective | Main Output | Sync Point |
+| Phase | Objective | Main Output | Sync Point |
 |---|---|---|---|
-| Stage 0 - Foundation | Create aligned system understanding and delivery structure | System understanding, PoC decisions, backlog, traceability setup | PR: `stage-0-foundation` |
-| Stage 1 - MVP E2E | End-to-end vertical slice from Android service to browser status view | Running MVP with core telemetry flow | PR: `stage-1-mvp-e2e` |
-| Stage 2 - Reliability & Security | Harden runtime behavior and transport/security controls | Improved resilience, permission handling, security checks | PR: `stage-2-hardening` |
-| Stage 3 - Operational Readiness | Improve diagnostics, release readiness, and maintainability | Logging/diagnostics, release guidance, quality evidence | PR: `stage-3-operational-readiness` |
+| Phase 1 - System Foundation | Baseline requirements, architecture understanding, and PoC gates | System understanding, PoC decisions, traceability baseline | PR: `phase-1-foundation` |
+| Phase 2 - Infrastructure E2E Slice | Establish technical backbone and minimal end-to-end connection path | Infra E2E connectivity and basic observability | PR: `phase-2-infra-e2e` |
+| Phase 3 - MVP E2E | Deliver first user-valuable end-to-end flow | Running MVP with accepted scope boundaries | PR: `phase-3-mvp-e2e` |
+| Phase 4 - Feature Sprints | Add prioritized capabilities incrementally | Feature increments with validated acceptance criteria | PR: `phase-4-feature-sprints` |
+| Phase 5 - Hardening & Readiness | Improve reliability, security, diagnostics, and release readiness | Hardened delivery evidence and go-live package | PR: `phase-5-readiness` |
 
-## Sprint Cadence per Stage
-1. Sprint planning from prioritized backlog
+## Sprint Cadence per Phase
+1. Sprint planning from prioritized backlog (limit sprint scope to 1 day of token budget and typically 1-2 sensible features)
 2. Agent execution on scoped tasks
 3. Daily progress updates in chronological log
 4. End-of-sprint demo + retrospective
-5. Stage sync PR with traceability updates
+5. Phase/increment sync PR with traceability updates
