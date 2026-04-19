@@ -10,7 +10,7 @@ This dictionary defines key terms used across business unit, project, program, a
 ## Project Terms
 - **Phase**: A major delivery period in the lifecycle with a clear objective and review checkpoint.
 - **Increment**: A bounded delivery unit within or across phases, usually synchronized via one PR.
-- **Sprint**: Short execution cycle in the feature-sprint phase, sized to roughly one day token budget and typically 1-2 sensible features/tasks.
+- **Sprint**: Short execution cycle in the feature-sprint phase, sized to roughly one day token budget and typically 1-2 sensible features/tasks. This is the canonical sprint sizing rule for repository docs.
 - **DoD (Definition of Done)**: Minimum completion criteria required before accepting work; see `docs/process/delivery-process.md`.
 - **Traceability Matrix**: Mapping of Feature -> Task -> Commit -> Impact Analysis -> Change Request/Decision.
 

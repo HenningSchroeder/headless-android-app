@@ -20,4 +20,4 @@
 | T-005 | F-002 | Implement MVP service lifecycle | P3-S1 | Planned | Integration test |
 | T-006 | F-003 | Implement E2E status push | P3-S2 | Planned | E2E test |
 
-Sprint policy: each sprint targets roughly one day of token budget and typically 1-2 sensible features/tasks.
+Sprint policy: use the canonical sprint sizing rule in `docs/knowledge/data-dictionary.md` and document any sprint-specific tailoring explicitly.

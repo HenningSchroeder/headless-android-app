@@ -13,7 +13,11 @@
 - Security principle: minimum data collection, explicit consent, transport hardening.
 
 ## Process Knowledge
-- Retrospective required at sprint/phase boundaries.
-- Update traceability and progress log in every increment.
+- Canonical process baseline requirements for all increments:
+  - Update traceability matrix for planned work and implemented change impact.
+  - Update chronological progress log in every increment.
+  - Use progress log entries to capture assumption -> step -> observation -> reaction/decision cycles, including failed attempts.
+  - Run retrospective at sprint and phase boundaries.
+  - Ensure verification/validation evidence is captured per task.
 - Call out outdated/unfounded/suboptimal assumptions and propose alternatives.
-- Use progress log entries to capture assumption -> step -> observation -> reaction/decision cycles, including failed attempts.
+- Project/process docs should reference this baseline and only add explicit tailoring where needed.

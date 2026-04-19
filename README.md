@@ -1,6 +1,6 @@
 # Headless Android App
 
-This repository is set up for **agent-first, phase-driven delivery** with an MVP-first roadmap and traceable execution.
+Documentation-first repository for **agent-first, phase-driven delivery**.
 
 ## Documentation Structure
 
@@ -19,7 +19,4 @@ This repository is set up for **agent-first, phase-driven delivery** with an MVP
   - Architecture model (C4 starter): [`docs/product/architecture-c4.md`](docs/product/architecture-c4.md)
 - Expertise / tools knowledge: [`docs/knowledge/agent-and-technology-knowledge.md`](docs/knowledge/agent-and-technology-knowledge.md)
 - Data dictionary (starter terms + acronyms): [`docs/knowledge/data-dictionary.md`](docs/knowledge/data-dictionary.md)
-
-## Existing Source Plan
-
-The original planning input is preserved in [`PLAN.md`](PLAN.md) and has been translated into the structured setup above.
+- Original source plan: [`PLAN.md`](PLAN.md)

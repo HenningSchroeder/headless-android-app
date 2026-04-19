@@ -20,7 +20,7 @@
 - **Phase 4 is iterative**: it contains the looping agile feature sprints.
 
 ## Sprint Cadence per Phase
-1. Sprint planning from prioritized backlog (limit sprint scope to 1 day of token budget and typically 1-2 sensible features)
+1. Sprint planning from prioritized backlog (apply canonical sprint sizing from `docs/knowledge/data-dictionary.md` and tailor only when phase needs justify it)
 2. Agent execution on scoped tasks
 3. Daily progress updates in chronological log
 4. End-of-sprint demo + retrospective
