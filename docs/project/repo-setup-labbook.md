@@ -26,5 +26,6 @@ git add .
 git commit -m "Setup of Repo"
 git push
 
+# Alternative path for a fresh environment (instead of using --clone above):
 git clone https://github.com/HenningSchroeder/headless-android-app.git
 ```
