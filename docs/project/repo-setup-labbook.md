@@ -5,7 +5,7 @@ The original `README.md` content with repository bootstrap commands is preserved
 ```bash
 pkg upgrade
 pkg install git
-pkg install g
+pkg install gh
 
 git config --global user.name "Henning Schroeder"
 git config --global user.email henning.schroeder@gmx.de
