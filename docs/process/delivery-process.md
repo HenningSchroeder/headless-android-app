@@ -34,7 +34,7 @@ A-SPICE requires capability evidence, not fixed document naming/partitioning. Th
 - Project monitoring via chronological progress and sprint/phase retrospectives.
 - Verification evidence per task (defined in execution tracking).
 
-### Deferred for now (not necessary at current stage)
+### Deferred for now (not necessary at current phase maturity)
 - Full organizational process asset library and broad role catalog: deferred until team scale requires it.
 - Heavy-weight measurement baselines and statistical process control: deferred until stable implementation throughput exists.
 - Formal supplier/dependency governance packages: deferred until external suppliers or critical third-party chains are introduced.

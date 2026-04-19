@@ -19,7 +19,7 @@ Build a headless Android app that captures allowed local device/network status a
 1. Exact data payload contract (fields, frequency, retention)?
 2. Required Android API level target?
 3. Must browser UI run offline-only or can it rely on hosted assets?
-4. Is encrypted transport mandatory in MVP or Stage 2?
+4. Is encrypted transport mandatory in MVP or Phase 2?
 
 ## Proof of Concept (PoC) Gates
 - PoC-1: foreground service lifecycle + reconnect behavior

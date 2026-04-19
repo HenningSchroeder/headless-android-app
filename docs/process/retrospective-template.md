@@ -1,9 +1,9 @@
-# Retrospective Template (Sprint / Stage / Phase End)
+# Retrospective Template (Sprint / Phase End)
 
 ## Context
 - Period:
 - Scope:
-- Related Stage/Sprint:
+- Related Phase/Sprint:
 
 ## Outcome Review
 - What worked well?
